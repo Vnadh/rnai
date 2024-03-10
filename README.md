@@ -17,7 +17,8 @@ npm install
 cd server
 npm install
  ```
-* Obtain your Palm 2 API key from Palm 2 website and add it to your project configuration. and create a env file:-
+* Obtain your Palm 2 API key from Palm 2 website and add it to your project configuration.
+* create a env file in server as follows:-
 ```
 API_KEY=your-api-key
  ```
