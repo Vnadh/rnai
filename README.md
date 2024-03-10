@@ -1,5 +1,5 @@
 # RN.ai - AI Chatbot with React/Vue.js, Node.js, and PaLM 2 API
-This project implements an AI-powered chatbot using React (or Vue.js) for the frontend, Node.js for the backend, and Google's PaLM 2 API for natural language processing.
+This project implements an AI-powered chatbot using React  for the frontend, Node.js for the backend, and Google's PaLM 2 API for natural language processing.
 ## Getting Started
 ### Prerequisites:
 * Node.js and npm (or yarn) installed on your system (https://nodejs.org/)
